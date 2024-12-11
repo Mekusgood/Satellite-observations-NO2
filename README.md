@@ -1,7 +1,7 @@
 # Satellite-observations-NO2
 Satellite observations showed a negligible reduction in NO2 pollution due to COVID-19 lockdown over Poland 
 
-Authors: Emeka A. Ugboma, Iwona S. Stachlewska, Philipp Schneider and Kerstin Stebel
+Authors: Emeka A. Ugboma, Iwona S. Stachlewska, Philipp Schneider, and Kerstin Stebel
 
 https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2023.1172753/full
 

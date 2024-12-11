@@ -29,11 +29,13 @@ The Percentage Relative Change (RC) method was used to compare monthly mean NO�
 ![Relative Change OMI NO2 2010-2020](images/Fig.4_Relative_change_OMI.jpg)
 
 4. Annual Variability Analysis:
-Year-to-year changes in NO₂ levels were evaluated for major Polish cities to determine long-term trends. Bounding boxes were used to account for the varying satellite resolutions across cities. ![Monthly mean and standard deviation OMI NO2 2010-2020](images/Fig.5_Monthly_mean_NO2_SD_OMI.jpg)
+Year-to-year changes in NO₂ levels were evaluated for major Polish cities to determine long-term trends. Bounding boxes were used to account for the varying satellite resolutions across cities.
+![Monthly mean and standard deviation OMI NO2 2010-2020](images/Fig.5_Monthly_mean_NO2_SD_OMI.jpg)
 
-5. Meteorological Factors:
+6. Meteorological Factors:
 ERA5 reanalysis data (wind speed, boundary layer height, and temperature) were incorporated to account for meteorological impacts on NO₂ levels.
-This multi-faceted approach allowed for a robust assessment of the lockdown's impact while accounting for both short-term variability and long-term trends. ![2m temperature from ERA5 reanalysis over Poland](images/2m_temp_ERA5.png)
+This multi-faceted approach allowed for a robust assessment of the lockdown's impact while accounting for both short-term variability and long-term trends.
+![2m temperature from ERA5 reanalysis over Poland](images/2m_temp_ERA5.png)
 
 
 ## Results

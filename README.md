@@ -35,6 +35,7 @@ Year-to-year changes in NO₂ levels were evaluated for major Polish cities to d
 6. Meteorological Factors:
 ERA5 reanalysis data (wind speed, boundary layer height, and temperature) were incorporated to account for meteorological impacts on NO₂ levels.
 This multi-faceted approach allowed for a robust assessment of the lockdown's impact while accounting for both short-term variability and long-term trends.
+
 ![2m temperature from ERA5 reanalysis over Poland](images/2m_temp_ERA5.png)
 
 
